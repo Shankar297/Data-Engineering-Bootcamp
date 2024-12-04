@@ -104,8 +104,8 @@ FROM agg_cte CROSS JOIN UNNEST(agg_cte.summed_array) WITH ORDINALITY AS a(elem, 
 
 
 ### Aggregate Metrics Across Days query result
+![result](https://github.com/user-attachments/assets/6c08c6a6-a53c-4621-b712-7afc80e18914)
 
-https://github.com/Shankar297/Data-Engineering-Bootcamp/blob/main/Week2/Day03/SQL%20Queries/result.jpg
 
 
 ## Key Features
