@@ -117,6 +117,10 @@ GROUP BY user_id;
 - **Monthly Active**: Determines if a user is active at least once in the month.
 - **Weekly Active**: Determines if a user is active in the past week based on the bitmap.
 
+![result](https://github.com/user-attachments/assets/54e18d7c-db29-4079-a646-eaccd4a5b539)
+
+
+
 
 ## Key Features
 
