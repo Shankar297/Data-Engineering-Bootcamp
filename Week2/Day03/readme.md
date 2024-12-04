@@ -103,6 +103,11 @@ FROM agg_cte CROSS JOIN UNNEST(agg_cte.summed_array) WITH ORDINALITY AS a(elem, 
 ```
 
 
+### Aggregate Metrics Across Days query result
+
+https://github.com/Shankar297/Data-Engineering-Bootcamp/blob/main/Week2/Day03/SQL%20Queries/result.jpg
+
+
 ## Key Features
 
 1. **Reduced Storage Overhead**: Daily metrics are stored in arrays, reducing row count.
