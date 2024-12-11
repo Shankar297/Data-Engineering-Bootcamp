@@ -6,6 +6,8 @@ Welcome to the **Apache Spark Advanced Course**. This course provides a comprehe
 
 ## Week 03: Day 01 - **Spark Fundamentals**
 
+MindMap : [week3day1.pdf](https://github.com/user-attachments/files/18094162/week3day1.pdf)
+
 ### Topics Covered:
 
 1. **Introduction to Spark**
@@ -63,6 +65,7 @@ Welcome to the **Apache Spark Advanced Course**. This course provides a comprehe
 ---
 
 ## Week 03: Day 02 - **Advanced Spark Concepts**
+MindMap : [week3day2.pdf](https://github.com/user-attachments/files/18094173/week3day2.pdf)
 
 ### Topics Covered:
 
@@ -105,6 +108,7 @@ Welcome to the **Apache Spark Advanced Course**. This course provides a comprehe
 ---
 
 ## Week 03: Day 03 - **Hands-On Spark Lab**
+MindMap : [week3day3.pdf](https://github.com/user-attachments/files/18094175/week3day3.pdf)
 
 ### Topics Covered:
 
